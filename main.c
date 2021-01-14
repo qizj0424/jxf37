@@ -32,7 +32,7 @@
 #include "main.h"
 #include "tiziano_params.h"
 
-#define TX_ISP_SETTING_VERSION "2.10"
+#define TX_ISP_SETTING_VERSION "1.03"
 #define VERSION_SIZE 8
 
 extern tisp_params_t tparams_night;
